@@ -9,5 +9,7 @@ A persistência dos dados é feita pelo servidor salvando os dados enviados em for
 
 ###RELEASE 0.0.1###
 Parâmetros recebidos pelo cliente são enviados ou em forma de parâmetros na IDE (lib Beust), ou na forma de arquivo Json. **Projeto para versão 0.1.0**: Alterar para envio via frontend java-script.
+
 Persistência em formato de arquivo .json hospeadado localmente. **Projeto para versão 0.1.0**: Alterar persistência para arquivo hospedado na nuvem.
+
 **Projeto para versão 0.1.0**: Hospedar cliente e servidor como duas aplicações rodando em um container na nuvem, com frontend javascript comunicando com o servidor.
